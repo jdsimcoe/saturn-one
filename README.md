@@ -2,4 +2,4 @@
 
 Atom One Theme based on [Saturn Syntax](https://github.com/psql/saturn-syntax)
 
-![yeah](http://cl.ly/X0lW/Screen%20Shot%202014-08-12%20at%204.33.31%20PM.png)
+![screen](https://cloud.githubusercontent.com/assets/275617/9011873/3c7e310e-3765-11e5-96ac-08cad92e5e56.png)
