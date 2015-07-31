@@ -21,13 +21,20 @@
     color: @syntax-invisible-character-color;
   }
 
-  .gutter {
+  .cursor-line {
     background-color: @syntax-gutter-background-color;
+    color: @syntax-gutter-text-color-selected;
+  }
+
+
+
+  .gutter {
+    background-color: @syntax-background-color;
     color: @syntax-gutter-text-color;
 
     .line-number {
       &.cursor-line {
-        background-color: @syntax-gutter-background-color-selected;
+        background-color: @syntax-gutter-background-color;
         color: @syntax-gutter-text-color-selected;
       }
 
@@ -72,7 +79,6 @@
 .entity {
   &.name.type {
     color: @light-orange;
-    text-decoration: underline;
   }
 
   &.other.inherited-class {
@@ -222,7 +228,6 @@
 
   &.name.tag {
     color: @red;
-    text-decoration: underline;
   }
 
   &.other.attribute-name {
