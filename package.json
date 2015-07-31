@@ -1,7 +1,7 @@
 {
   "name": "saturn-one",
   "theme": "syntax",
-  "version": "0.4.0",
+  "version": "0.5.0",
   "description": "Colors from Pasquale's (@psql) brain, modded by @jdsimcoe. Roughly hacked together. Excuse strange LESS variables. Would like to clean up in a future release.",
   "repository": "https://github.com/jdsimcoe/saturn-one",
   "license": "MIT",
