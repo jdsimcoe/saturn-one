@@ -1,9 +1,9 @@
 {
-  "name": "saturn-syntax",
+  "name": "saturn-one",
   "theme": "syntax",
-  "version": "0.3.0",
-  "description": "Colors from Pasquale's (@psql) brain. Roughly hacked together. Excuse strange LESS variables. Would like to clean up in a future release.",
-  "repository": "https://github.com/psql/saturn-syntax",
+  "version": "0.1.0",
+  "description": "Colors from Pasquale's (@psql) brain, modded by @jdsimcoe. Roughly hacked together. Excuse strange LESS variables. Would like to clean up in a future release.",
+  "repository": "https://github.com/jdsimcoe/saturn-one",
   "license": "MIT",
   "engines": {
     "atom": ">0.50.0"
